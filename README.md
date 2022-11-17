@@ -89,6 +89,7 @@
 * 예상 소요기간
   * 14주
 
+* [일정](https://docs.google.com/spreadsheets/d/1JOCFSXrlZ-J8Zfx8atEKoVnRM1bLdnUR0SBBMXn4ORg/edit#gid=0)
 * [undergraduate-ostep](https://github.com/dgist-datalab/undergraduate-ostep)
 
 ## [전체 타임라인](https://docs.google.com/spreadsheets/d/1gwsb9MsN-_fvRr794P3vfc1kptT6AxkW3lVkixxWKjs/edit?usp=sharing)
